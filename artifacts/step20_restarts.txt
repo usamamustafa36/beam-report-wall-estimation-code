@@ -1,0 +1,6 @@
+LOS richer multi-start. Previous step4b LOS RMSE: 0.25 dB 3.66 m, 1 dB 2.75 m, 4 dB 4.77 m.
+starts d [0.0, -2.0, 2.0, -4.0, 4.0, -6.0, 6.0, -8.0, 8.0], eps [3.0, 5.0, 7.0, 9.0], phase grid 32, wall 16128s
+LOS 0.25 dB: d RMSE 2.51 m / sqrt(mean CRB) 1.44; distant 10/120; of distant, C(hat)>C(true) 6 median gap 19.08; C(hat)<C(true) 4  [120 fits]
+LOS 1.00 dB: d RMSE 1.88 m / sqrt(mean CRB) 1.97; distant 0/120; of distant, C(hat)>C(true) 0 median gap nan; C(hat)<C(true) 0  [120 fits]
+LOS 4.00 dB: d RMSE 4.62 m / sqrt(mean CRB) 4.74; distant 4/120; of distant, C(hat)>C(true) 0 median gap nan; C(hat)<C(true) 4  [120 fits]
+RMSE increases with sigma_e: False  (2.51, 1.88, 4.62)

@@ -1,0 +1,6 @@
+part mat, facade B, N=10, chi2_2 quantiles: 95% 5.99, 99% 9.21
+LOS  P_FA=1%: threshold 8.19 [7.57, 10.58] (500 H0 trials, median T 1.33); P_D 2m:0.40[0.31,0.50] 4m:0.94[0.88,0.97] 8m:1.00[0.96,1.00] (100 trials each)
+LOS  P_FA=5%: threshold 5.83 [5.03, 6.44] (500 H0 trials, median T 1.33); P_D 2m:0.58[0.48,0.67] 4m:0.97[0.92,0.99] 8m:1.00[0.96,1.00] (100 trials each)
+NLOS P_FA=1%: threshold 9.55 [8.05, 10.85] (500 H0 trials, median T 1.49); P_D 2m:0.59[0.49,0.68] 4m:1.00[0.96,1.00] 8m:1.00[0.96,1.00] (100 trials each)
+NLOS P_FA=5%: threshold 6.25 [5.76, 7.24] (500 H0 trials, median T 1.49); P_D 2m:0.78[0.69,0.85] 4m:1.00[0.96,1.00] 8m:1.00[0.96,1.00] (100 trials each)
+total 24229s

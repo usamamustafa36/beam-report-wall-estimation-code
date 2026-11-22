@@ -1,0 +1,17 @@
+fit nb beams=4 N=10 A=3 LOS prior=1.732 RMSE=1.882 [1.615, 2.126] gain=-0.150 max=6.00 clip=0.0022 far=0.017 n=120 fail=0
+fit nb beams=4 N=10 A=3 NLOS prior=1.732 RMSE=1.858 [1.560, 2.218] gain=-0.126 max=6.68 clip=0.0658 far=0.025 n=120 fail=0
+fit nb beams=4 N=10 A=6 LOS prior=3.464 RMSE=2.817 [2.486, 3.170] gain=0.647 max=8.52 clip=0.0047 far=0.008 n=120 fail=0
+fit nb beams=4 N=10 A=6 NLOS prior=3.464 RMSE=2.707 [2.091, 3.419] gain=0.757 max=15.34 clip=0.0658 far=0.017 n=120 fail=0
+fit nb beams=4 N=10 A=10 LOS prior=5.774 RMSE=3.518 [2.997, 4.022] gain=2.256 max=10.77 clip=0.0058 far=0.008 n=120 fail=0
+fit nb beams=4 N=10 A=10 NLOS prior=5.774 RMSE=3.389 [2.512, 4.454] gain=2.385 max=20.13 clip=0.0622 far=0.008 n=120 fail=0
+fit nb beams=4 N=50 A=6 LOS prior=3.464 RMSE=1.733 [1.412, 2.025] gain=1.731 max=4.13 clip=0.0026 far=0.000 n=48 fail=0
+fit nb beams=4 N=50 A=6 NLOS prior=3.464 RMSE=4.031 [3.149, 4.925] gain=-0.567 max=12.47 clip=0.0586 far=0.375 n=48 fail=0
+fit nb beams=4 N=100 A=6 LOS prior=3.464 RMSE=2.036 [1.575, 2.598] gain=1.428 max=5.75 clip=0.0035 far=0.083 n=48 fail=0
+fit nb beams=4 N=100 A=6 NLOS prior=3.464 RMSE=4.139 [3.252, 4.938] gain=-0.675 max=10.73 clip=0.0603 far=0.500 n=48 fail=0
+fit nb beams=4 N=200 A=6 LOS prior=3.464 RMSE=2.442 [1.937, 2.907] gain=1.022 max=6.40 clip=0.0039 far=0.375 n=48 fail=0
+fit nb beams=4 N=200 A=6 NLOS prior=3.464 RMSE=3.223 [2.727, 3.689] gain=0.241 max=6.80 clip=0.0576 far=0.521 n=48 fail=0
+fit nb beams=8 N=10 A=6 LOS prior=3.464 RMSE=2.314 [2.072, 2.551] gain=1.150 max=6.65 clip=0.0218 far=0.008 n=120 fail=0
+fit nb beams=8 N=10 A=6 NLOS prior=3.464 RMSE=2.699 [2.283, 3.095] gain=0.765 max=8.27 clip=0.1148 far=0.025 n=120 fail=0
+fit wb beams=4 N=10 A=6 LOS prior=3.464 RMSE=2.576 [2.260, 2.897] gain=0.888 max=8.91 clip=0.0236 far=0.008 n=120 fail=0
+fit wb beams=4 N=10 A=6 NLOS prior=3.464 RMSE=2.624 [2.277, 2.994] gain=0.840 max=9.81 clip=0.0572 far=0.008 n=120 fail=0
+fit seconds 901

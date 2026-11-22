@@ -1,0 +1,26 @@
+split-model RSRP error at a LOS user: 0.00e+00 dB
+M3 current (wall phase only, h0 frozen) LOS: median sqrt CRB d 1.76 m [1.39, 2.32]  singular 0
+M3 current (wall phase only, h0 frozen) NLOS: median sqrt CRB d 2.99 m [2.08, 4.45]  singular 0
+M3 direct and residual phases free LOS: median sqrt CRB d 2.05 m [1.47, 2.89]  singular 0
+M3 direct and residual phases free NLOS: median sqrt CRB d 2.99 m [2.08, 4.45]  singular 0
+M1 top-4 differential LOS: median sqrt CRB d 4.73 m [2.97, 8.86]  singular 0
+M1 top-4 differential NLOS: median sqrt CRB d 3.10 m [2.26, 4.60]  singular 0
+M1 all-16 quantised 1 dB LOS: median sqrt CRB d 1.78 m [1.41, 2.39]
+M1 all-16 quantised 1 dB NLOS: median sqrt CRB d 3.01 m [2.10, 4.50]
+M5 marble 0.1 m nearest other class: concrete at 3.50 dB RMS
+M5 thickness 0.2: nearest other class concrete at 2.23 dB RMS
+M5 thickness 0.3: nearest other class glass at 0.84 dB RMS
+M5 thickness None: nearest other class glass at 0.27 dB RMS
+M5 eps_r -20%: 5.69 dB from marble, nearest class brick at 1.90 dB
+M5 eps_r +20%: 6.30 dB from marble, nearest class glass at 0.98 dB
+M5 marble shifted by the 0.15 dB TM gap: still 3.56 dB from the nearest other class (concrete)
+M5 report-template class is marble for marble: LOS 80/80, NLOS 80/80
+M5 report-template class is marble for eps_r -20%: LOS 0/80, NLOS 1/80
+M5 report-template class is marble for eps_r +20%: LOS 0/80, NLOS 0/80
+m7 prior variance matched to the uniform: d 12.00 m^2, phi 1.155 deg std
+m7 facade B LOS at the map wall: radio 1.88 m, Bayesian 1.51 m  (RMS, N=10)
+m7 facade B NLOS at the map wall: radio 3.29 m, Bayesian 2.22 m  (RMS, N=10)
+m7 train B test E LOS: offset RMSE 9.84 m, material acc 0.16  (2000 sets)
+m7 train B test E NLOS: offset RMSE 8.21 m, material acc 0.23  (2000 sets)
+M2 h0 perturbed (random ITU scale, path +/-0.5 m) LOS: median |offset bias| 0.40 m, median RMS report gap 4.05 dB
+M2 h0 perturbed (random ITU scale, path +/-0.5 m) NLOS: median |offset bias| 0.20 m, median RMS report gap 0.60 dB

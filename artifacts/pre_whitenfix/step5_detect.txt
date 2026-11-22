@@ -1,0 +1,8 @@
+chi2_2 99% = 9.21
+LOS  N= 5: threshold   7.81 (median T|H0 0.79); P_D 0.5m:0.00 1m:0.07 2m:0.22 4m:0.83 8m:0.98
+LOS  N=10: threshold   8.55 (median T|H0 0.06); P_D 0.5m:0.02 1m:0.08 2m:0.30 4m:0.92 8m:1.00 | full Sionna, no change: P_FA 0.00 with a complete twin (median T 0.3), 0.37 with a single-bounce twin (median T 5.3)
+LOS  N=20: threshold   4.73 (median T|H0 0.00); P_D 0.5m:0.02 1m:0.20 2m:0.58 4m:0.88 8m:0.97
+NLOS N= 5: threshold   8.75 (median T|H0 1.54); P_D 0.5m:0.02 1m:0.02 2m:0.45 4m:1.00 8m:1.00
+NLOS N=10: threshold   8.66 (median T|H0 1.39); P_D 0.5m:0.08 1m:0.10 2m:0.53 4m:1.00 8m:1.00 | full Sionna, no change: P_FA 0.01 with a complete twin (median T 0.3), 0.99 with a single-bounce twin (median T 205.6)
+NLOS N=20: threshold   8.14 (median T|H0 1.01); P_D 0.5m:0.08 1m:0.25 2m:0.92 4m:1.00 8m:1.00
+total 8073s

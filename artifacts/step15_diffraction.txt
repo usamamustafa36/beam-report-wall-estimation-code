@@ -1,0 +1,10 @@
+users 8 drawn from 215 served NLOS with |h0|~0, samples 500000, wall 7s
+user 1536: diffracted paths 78 power 9.223e-11, specular-avoid 0 power 0.000e+00, avoid-facade paths 78
+user 1286: diffracted paths 34 power 5.862e-12, specular-avoid 0 power 0.000e+00, avoid-facade paths 34
+user 1556: diffracted paths 43 power 7.875e-13, specular-avoid 0 power 0.000e+00, avoid-facade paths 43
+user 1119: diffracted paths 19 power 5.670e-12, specular-avoid 0 power 0.000e+00, avoid-facade paths 19
+user 1675: diffracted paths 71 power 1.646e-11, specular-avoid 0 power 0.000e+00, avoid-facade paths 71
+user 1381: diffracted paths 52 power 1.017e-12, specular-avoid 0 power 0.000e+00, avoid-facade paths 52
+user 1295: diffracted paths 29 power 2.457e-13, specular-avoid 0 power 0.000e+00, avoid-facade paths 29
+user 1598: diffracted paths 71 power 2.905e-11, specular-avoid 0 power 0.000e+00, avoid-facade paths 71
+median diffracted power 5.766e-12, users with a diffracted path 8/8, median specular-avoid power 0.000e+00

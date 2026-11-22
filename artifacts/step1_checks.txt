@@ -1,0 +1,55 @@
+[PASS] reflection point lies on the wall  (max |n'x-d| = 7.1e-15 m)
+[PASS] reflected length = BS->wall + wall->user  (max err 4.3e-14 m)
+[PASS] angle of incidence = angle of reflection  (max err 3.3e-16)
+[PASS] all users have a valid specular point  (200/200)
+[PASS] wide codebook matches revision_common.wide_codebook  (max diff 2.8e-17)
+[PASS] LOS-only: best wide beam = nearest grid point  (100.0% of users)
+[PASS] metal |Gamma| ~ 1  (|Gamma| = 0.99986)
+[PASS] glass normal incidence = (1-sqrt(eps))/(1+sqrt(eps))  (-0.4305+0.0032j)
+[PASS] grazing incidence -> Gamma = -1  (-0.9999+0.0000j)
+
+-- Rank of the RSRP Jacobian, theta = (d, phi, |Gamma|, arg Gamma) --
+  1 user NLOS    rank 2/4   singular values [1.72e+00 2.16e-01 2.30e-13 0.00e+00]
+[PASS]   1 user NLOS: d mu/d arg(Gamma) = 0 (Lemma 1)  (relative max 2.2e-17)
+  1 user LOS     rank 3/4   singular values [1.81e+00 8.48e-01 1.02e-02 1.06e-15]
+  2 users NLOS   rank 3/4   singular values [1.53 0.8  0.16 0.  ]
+[PASS]   2 users NLOS: d mu/d arg(Gamma) = 0 (Lemma 1)  (relative max 8.3e-18)
+  2 users LOS    rank 4/4   singular values [1.73e+00 9.45e-01 3.41e-01 9.19e-04]
+  10 users NLOS  rank 3/4   singular values [1.41 0.91 0.44 0.  ]
+[PASS]   10 users NLOS: d mu/d arg(Gamma) = 0 (Lemma 1)  (relative max 6.7e-18)
+  10 users LOS   rank 4/4   singular values [1.47 1.   0.92 0.01]
+[PASS] Lemma 2: 1 user NLOS rank <= 2  (rank 2)
+[PASS] Lemma 2: 1 user LOS rank <= 3  (rank 3)
+[PASS] 2 users LOS: full rank 4
+[PASS] 2 users NLOS: rank 3 (all but arg Gamma)
+
+-- Null directions of a single user --
+[PASS]   NLOS: null space has dimension 2  (found 2)
+  NLOS: null vector (d, phi, |G|, argG) = [-1.      0.0048  0.0076 -0.0013]
+[PASS]   NLOS: observables ['s_r', 'log|c|'] constant along it  (max change 2.0e-14)
+  NLOS: null vector (d, phi, |G|, argG) = [ 1.3004e-03 -6.2825e-06 -9.8314e-06 -1.0000e+00]
+[PASS]   NLOS: observables ['s_r', 'log|c|'] constant along it  (max change 3.1e-17)
+[PASS]   NLOS: one null direction mixes geometry and |Gamma| (Lemma 2)  (largest geometry component 1.000)
+[PASS]   LOS: null space has dimension 1  (found 1)
+  LOS: null vector (d, phi, |G|, argG) = [ 7.8848e-03 -3.8093e-05 -5.9611e-05 -9.9997e-01]
+[PASS]   LOS: observables ['s_r', 'log|c|', 'arg c'] constant along it  (max change 3.3e-16)
+[PASS]   LOS: null vector moves arg(Gamma) together with d (phase confounded with path length)  (arg-Gamma -1.0000, d 0.0079)
+
+-- Material mode, theta = (d, phi, eps_r, log10 sigma), NLOS --
+  concrete  N= 1 NLOS rank 2/4   cond 1.23e+15
+  concrete  N= 2 NLOS rank 4/4   cond 4.64e+01
+  concrete  N= 3 NLOS rank 4/4   cond 1.83e+01
+  concrete  N= 5 NLOS rank 4/4   cond 1.06e+01
+  concrete  N=10 NLOS rank 4/4   cond 4.04e+00
+  glass     N= 1 NLOS rank 2/4   cond 2.77e+15
+  glass     N= 2 NLOS rank 4/4   cond 6.11e+01
+  glass     N= 3 NLOS rank 4/4   cond 3.34e+01
+  glass     N= 5 NLOS rank 4/4   cond 1.86e+01
+  glass     N=10 NLOS rank 4/4   cond 8.20e+00
+  brick     N= 1 NLOS rank 2/4   cond 1.03e+14
+  brick     N= 2 NLOS rank 4/4   cond 1.93e+01
+  brick     N= 3 NLOS rank 4/4   cond 8.05e+00
+  brick     N= 5 NLOS rank 4/4   cond 1.02e+01
+  brick     N=10 NLOS rank 4/4   cond 3.43e+00
+
+ALL CHECKS PASSED

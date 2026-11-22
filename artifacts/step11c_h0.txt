@@ -1,0 +1,7 @@
+trials 200 per class, overlap LOS 247 NLOS 80, wall 1168s
+H0 LOS: n 200 median 1.14 thr99 8.95 max 11.32
+H0 NLOS: n 200 median 0.92 thr99 8.31 max 9.94
+LOS_2_T complete-twin P_D at overlap thr 8.95: 0.720  (old 9.61: 0.710)
+NLOS_2_T complete-twin P_D at overlap thr 8.31: 0.837  (old 9.61: 0.820)
+LOS_4_T complete-twin P_D at overlap thr 8.95: 0.867  (old 9.61: 0.860)
+NLOS_4_T complete-twin P_D at overlap thr 8.31: 0.917  (old 9.61: 0.913)

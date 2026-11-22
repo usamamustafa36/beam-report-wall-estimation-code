@@ -1,0 +1,48 @@
+facade A 3.5 GHz: 509 users (509 LOS, 0 NLOS); paths touching the facade at bounce 2 (left out): 478
+  path length       max |L_sionna - L_model| = 3.18e-05 m
+  departure s=k'e   max |s_sionna - s_model| = 2.79e-06
+  amplitude         Sionna/model [dB]: median -0.31, 5-95% [-0.83, -0.20]
+  phase             Sionna - model [rad]: median +0.008, max |.| 0.022
+  closed-form validity flag true for 509/509
+facade A 28 GHz: 509 users (509 LOS, 0 NLOS); paths touching the facade at bounce 2 (left out): 478
+  path length       max |L_sionna - L_model| = 3.05e-05 m
+  departure s=k'e   max |s_sionna - s_model| = 2.79e-06
+  amplitude         Sionna/model [dB]: median -0.27, 5-95% [-0.67, -0.18]
+  phase             Sionna - model [rad]: median -0.000, max |.| 0.008
+  closed-form validity flag true for 509/509
+facade B 3.5 GHz: 1017 users (776 LOS, 241 NLOS); paths touching the facade at bounce 2 (left out): 1973
+  path length       max |L_sionna - L_model| = 5.41e-05 m
+  departure s=k'e   max |s_sionna - s_model| = 1.53e-06
+  amplitude         Sionna/model [dB]: median -0.15, 5-95% [-0.27, -0.08]
+  phase             Sionna - model [rad]: median +0.005, max |.| 0.011
+  closed-form validity flag true for 1017/1017
+facade B 28 GHz: 1017 users (776 LOS, 241 NLOS); paths touching the facade at bounce 2 (left out): 1973
+  path length       max |L_sionna - L_model| = 5.41e-05 m
+  departure s=k'e   max |s_sionna - s_model| = 1.53e-06
+  amplitude         Sionna/model [dB]: median -0.13, 5-95% [-0.24, -0.07]
+  phase             Sionna - model [rad]: median +0.000, max |.| 0.002
+  closed-form validity flag true for 1017/1017
+facade E 3.5 GHz: 1092 users (538 LOS, 554 NLOS); paths touching the facade at bounce 2 (left out): 1380
+  path length       max |L_sionna - L_model| = 4.03e-05 m
+  departure s=k'e   max |s_sionna - s_model| = 3.82e-06
+  amplitude         Sionna/model [dB]: median -0.10, 5-95% [-0.34, -0.05]
+  phase             Sionna - model [rad]: median +0.002, max |.| 0.014
+  closed-form validity flag true for 1092/1092
+facade E 28 GHz: 1092 users (538 LOS, 554 NLOS); paths touching the facade at bounce 2 (left out): 1380
+  path length       max |L_sionna - L_model| = 3.65e-05 m
+  departure s=k'e   max |s_sionna - s_model| = 3.82e-06
+  amplitude         Sionna/model [dB]: median -0.09, 5-95% [-0.29, -0.05]
+  phase             Sionna - model [rad]: median +0.000, max |.| 0.003
+  closed-form validity flag true for 1092/1092
+facade B 3.5 GHz e2e, Sionna model paths LOS  (259 users): RSRP |err| median 0.02 dB, 95% 0.17 dB; channel rel err median 0.005
+facade B 3.5 GHz e2e, Sionna model paths NLOS (80 users): RSRP |err| median 0.09 dB, 95% 0.11 dB; channel rel err median 0.012
+facade B 3.5 GHz e2e, all, 1-bounce twin LOS  (259 users): RSRP |err| median 0.48 dB, 95% 4.83 dB; channel rel err median 0.106
+facade B 3.5 GHz e2e, all, 1-bounce twin NLOS (80 users): RSRP |err| median 2.88 dB, 95% 9.39 dB; channel rel err median 0.556
+facade B 3.5 GHz e2e, all, complete twin LOS  (259 users): RSRP |err| median 0.02 dB, 95% 0.18 dB; channel rel err median 0.005
+facade B 3.5 GHz e2e, all, complete twin NLOS (80 users): RSRP |err| median 0.07 dB, 95% 0.14 dB; channel rel err median 0.009
+facade E 3.5 GHz e2e, Sionna model paths LOS  (182 users): RSRP |err| median 0.01 dB, 95% 0.16 dB; channel rel err median 0.001
+facade E 3.5 GHz e2e, Sionna model paths NLOS (182 users): RSRP |err| median 0.12 dB, 95% 0.25 dB; channel rel err median 0.015
+facade E 3.5 GHz e2e, all, 1-bounce twin LOS  (182 users): RSRP |err| median 0.29 dB, 95% 3.32 dB; channel rel err median 0.091
+facade E 3.5 GHz e2e, all, 1-bounce twin NLOS (182 users): RSRP |err| median 2.23 dB, 95% 8.63 dB; channel rel err median 0.386
+facade E 3.5 GHz e2e, all, complete twin LOS  (182 users): RSRP |err| median 0.01 dB, 95% 0.15 dB; channel rel err median 0.001
+facade E 3.5 GHz e2e, all, complete twin NLOS (182 users): RSRP |err| median 0.11 dB, 95% 0.29 dB; channel rel err median 0.017

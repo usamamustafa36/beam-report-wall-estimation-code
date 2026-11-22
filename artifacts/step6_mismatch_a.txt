@@ -1,0 +1,7 @@
+LOS  N= 5: RMSE d radio 2.87 m | fused at Delta=0 0.49 m | map-only at 0 0.50 m | fused worse than radio beyond Delta* = 2.97 m [1.98, 4.98] | fused RMSE at Delta=4 m 3.84 m
+LOS  N=10: RMSE d radio 1.82 m | fused at Delta=0 0.48 m | map-only at 0 0.50 m | fused worse than radio beyond Delta* = 1.92 m [1.48, 2.61] | fused RMSE at Delta=4 m 3.68 m
+LOS  N=20: RMSE d radio 1.15 m | fused at Delta=0 0.46 m | map-only at 0 0.50 m | fused worse than radio beyond Delta* = 1.28 m [1.13, 1.53] | fused RMSE at Delta=4 m 3.35 m
+NLOS N= 5: RMSE d radio 4.97 m | fused at Delta=0 0.50 m | map-only at 0 0.50 m | fused worse than radio beyond Delta* = 5.01 m [3.01, 8.96] | fused RMSE at Delta=4 m 3.98 m
+NLOS N=10: RMSE d radio 3.00 m | fused at Delta=0 0.49 m | map-only at 0 0.50 m | fused worse than radio beyond Delta* = 3.05 m [2.17, 4.40] | fused RMSE at Delta=4 m 3.91 m
+NLOS N=20: RMSE d radio 1.97 m | fused at Delta=0 0.48 m | map-only at 0 0.50 m | fused worse than radio beyond Delta* = 2.04 m [1.63, 2.50] | fused RMSE at Delta=4 m 3.78 m
+total 0s

@@ -1,0 +1,13 @@
+LOS  sigma_e=0.25 dB          : d RMSE 1.89 m / bound 1.25 (median |err| 1.41); phi RMSE 0.739 / 0.384 deg; eps_r RMSE 1.67 / 0.0299, |err|>3 bound in 62%  [60 fits, 0 failed]
+LOS  sigma_e=0.50 dB          : d RMSE 1.88 m / bound 1.38 (median |err| 1.31); phi RMSE 0.533 / 0.428 deg; eps_r RMSE 2.04 / 0.0567, |err|>3 bound in 78%  [60 fits, 0 failed]
+LOS  sigma_e=1.00 dB          : d RMSE 1.77 m / bound 1.7 (median |err| 1.29); phi RMSE 0.512 / 0.539 deg; eps_r RMSE 1.98 / 0.107, |err|>3 bound in 68%  [60 fits, 0 failed]
+LOS  sigma_e=1.00 dB quantised: d RMSE 1.39 m / bound 1.77 (median |err| 0.843); phi RMSE 0.48 / 0.561 deg; eps_r RMSE 1.78 / 0.111, |err|>3 bound in 65%  [60 fits, 0 failed]
+LOS  sigma_e=2.00 dB          : d RMSE 1.89 m / bound 2.48 (median |err| 1.43); phi RMSE 0.604 / 0.792 deg; eps_r RMSE 2.5 / 0.2, |err|>3 bound in 73%  [60 fits, 0 failed]
+LOS  sigma_e=4.00 dB          : d RMSE 2.32 m / bound 4.25 (median |err| 1.36); phi RMSE 0.941 / 1.35 deg; eps_r RMSE 2.89 / 0.38, |err|>3 bound in 67%  [60 fits, 0 failed]
+NLOS sigma_e=0.25 dB          : d RMSE 2.21 m / bound 2.76 (median |err| 1.35); phi RMSE 0.379 / 0.332 deg; eps_r RMSE 1.87 / 0.0635, |err|>3 bound in 63%  [60 fits, 0 failed]
+NLOS sigma_e=0.50 dB          : d RMSE 3.18 m / bound 2.89 (median |err| 1.46); phi RMSE 0.431 / 0.348 deg; eps_r RMSE 1.87 / 0.123, |err|>3 bound in 62%  [60 fits, 0 failed]
+NLOS sigma_e=1.00 dB          : d RMSE 2.9 m / bound 3.11 (median |err| 1.25); phi RMSE 0.346 / 0.377 deg; eps_r RMSE 2.17 / 0.239, |err|>3 bound in 72%  [60 fits, 0 failed]
+NLOS sigma_e=1.00 dB quantised: d RMSE 3.18 m / bound 3.24 (median |err| 1.46); phi RMSE 0.356 / 0.393 deg; eps_r RMSE 2.02 / 0.249, |err|>3 bound in 72%  [60 fits, 0 failed]
+NLOS sigma_e=2.00 dB          : d RMSE 3.9 m / bound 3.63 (median |err| 2.58); phi RMSE 0.446 / 0.451 deg; eps_r RMSE 2.13 / 0.46, |err|>3 bound in 62%  [60 fits, 0 failed]
+NLOS sigma_e=4.00 dB          : d RMSE 4.14 m / bound 4.77 (median |err| 2.22); phi RMSE 0.493 / 0.618 deg; eps_r RMSE 2.51 / 0.876, |err|>3 bound in 12%  [60 fits, 0 failed]
+total 2126s

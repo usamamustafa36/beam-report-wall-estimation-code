@@ -1,0 +1,28 @@
+Traceback (most recent call last):
+  File "/home/ubuntu/bin/.Projects/THESIS/completed/usama-phd/uppsala/code/step17_fourbeam_map.py", line 292, in <module>
+    check()
+  File "/home/ubuntu/bin/.Projects/THESIS/completed/usama-phd/uppsala/code/step17_fourbeam_map.py", line 186, in check
+    J, _ = information(cfg, th0, U[s], H0[s])
+  File "/home/ubuntu/bin/.Projects/THESIS/completed/usama-phd/uppsala/code/step17_fourbeam_map.py", line 62, in information
+    Jt, Jd, Jp = jac(th, users, torch.view_as_real(h0), torch.zeros(n, 2), torch.zeros(n))
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/torch/_functorch/apis.py", line 203, in wrapped
+    return vmap_impl(
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/torch/_functorch/vmap.py", line 331, in vmap_impl
+    return _flat_vmap(
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/torch/_functorch/vmap.py", line 479, in _flat_vmap
+    batched_outputs = func(*batched_inputs, **kwargs)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/torch/_functorch/eager_transforms.py", line 1273, in wrapper_fn
+    results = vmap(push_jvp, randomness=randomness)(basis)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/torch/_functorch/apis.py", line 203, in wrapped
+    return vmap_impl(
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/torch/_functorch/vmap.py", line 331, in vmap_impl
+    return _flat_vmap(
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/torch/_functorch/vmap.py", line 479, in _flat_vmap
+    batched_outputs = func(*batched_inputs, **kwargs)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/torch/_functorch/eager_transforms.py", line 1262, in push_jvp
+    output = _jvp_with_argnums(
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/torch/_functorch/eager_transforms.py", line 1101, in _jvp_with_argnums
+    result_duals = func(*duals)
+  File "/home/ubuntu/bin/.Projects/THESIS/completed/usama-phd/uppsala/code/step17_fourbeam_map.py", line 58, in mu
+    return rm.rsrp_mean_phase(cfg, th_, uu, torch.view_as_complex(hr)[None], psi[:1])[0]
+IndexError: Dimension out of range (expected to be in range of [-1, 0], but got 1)

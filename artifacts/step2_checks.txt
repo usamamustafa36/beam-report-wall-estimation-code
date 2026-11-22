@@ -1,0 +1,26 @@
+
+================ STEP 2 ================
+[PASS] Remark: closed-form per-beam phase derivative = autograd  (rel err 3.5e-16)
+  share of arg(Gamma) information per wide beam: [1.875e-03 2.098e-03 2.332e-03 2.598e-03 2.929e-03 3.389e-03 4.135e-03
+ 5.685e-03 1.124e-02 9.582e-01 4.075e-04 2.213e-04 7.178e-04 1.099e-03
+ 1.397e-03 1.648e-03]
+[PASS] Lemma 2 (LOS): explicit null vector annihilates J  (|Jv|/|J||v| = 1.2e-18)
+[PASS] Lemma 2 (NLOS): explicit null vector annihilates J  (|Jv|/|J||v| = 2.9e-15)
+[PASS] Lemma 2 (NLOS): explicit null vector annihilates J  (|Jv|/|J||v| = 1.3e-19)
+[PASS] A_n full column rank (LOS, 3 columns)  (500/500 users)
+[PASS] A_n full column rank (NLOS, 2 columns)  (500/500 users)
+[PASS] Proposition: random LOS pair has rank 4  (100% of 300 pairs)
+[PASS] Proposition: random NLOS pair has rank 3  (100% of 300 pairs)
+[PASS] Proposition: random LOS+NLOS pair has rank 4  (100% of 300 pairs)
+[PASS] Proposition: random material NLOS pair has rank 4  (100% of 300 pairs)
+[PASS] Proposition: equal incidence angles -> material pair rank 3  (cos theta_i = [0.945941 0.945941], rank 3)
+  10 NLOS users: concrete rank 4, cond 7.24e+00; metal rank 3, |d mu/d log sigma| share 1.2e-05
+[PASS] Remark: metal (sigma = 1e7 S/m) gives no information on sigma  (metal rank 3, concrete rank 4)
+[PASS] Corollary: map prior -> (d, phi, |Gamma|) block nonsingular  (min eig 4.16e+00)
+[PASS] Corollary: map prior never informs arg(Gamma) in NLOS  (min eig 8.8e-31)
+
+STEP 2: ALL CHECKS PASSED
+
+-- Facts quoted in paper/identifiability.tex --
+  metal, column shares (d, phi, eps_r, log10 sigma): [3.97e-03 1.00e+00 9.83e-14 1.16e-05]
+  LOS users: share of arg(Gamma) information in the single best beam: median 0.433, 10th pct 0.117, min 0.070  (500 users)

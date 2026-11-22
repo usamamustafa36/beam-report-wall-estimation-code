@@ -1,0 +1,4 @@
+LOS  sigma_e=1.00 dB          : RMSE d 1.57 m (bound 1.45, median |err| 1.02), phi 0.304 deg (bound 0.422), eps_r 2.57 (bound 0.0997)  [4 fits, 0 failed, 18s]
+LOS  sigma_e=1.00 dB quantised: RMSE d 2.82 m (bound 1.51, median |err| 2.51), phi 0.41 deg (bound 0.439), eps_r 2.33 (bound 0.104)  [4 fits, 0 failed, 36s]
+NLOS sigma_e=1.00 dB          : RMSE d 2.14 m (bound 3.47, median |err| 2.18), phi 0.205 deg (bound 0.444), eps_r 2.18 (bound 0.242)  [4 fits, 0 failed, 54s]
+NLOS sigma_e=1.00 dB quantised: RMSE d 3.61 m (bound 3.61, median |err| 1.47), phi 0.354 deg (bound 0.463), eps_r 1.14 (bound 0.252)  [4 fits, 0 failed, 71s]

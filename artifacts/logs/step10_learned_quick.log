@@ -1,0 +1,12 @@
+/home/ubuntu/.local/lib/python3.10/site-packages/numpy/_core/fromnumeric.py:3860: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/home/ubuntu/.local/lib/python3.10/site-packages/numpy/_core/_methods.py:145: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+Traceback (most recent call last):
+  File "/home/ubuntu/bin/.Projects/THESIS/completed/usama-phd/uppsala/code/step10_learned.py", line 204, in <module>
+    out = [run(c) for c in ["LOS", "NLOS"]]
+  File "/home/ubuntu/bin/.Projects/THESIS/completed/usama-phd/uppsala/code/step10_learned.py", line 204, in <listcomp>
+    out = [run(c) for c in ["LOS", "NLOS"]]
+  File "/home/ubuntu/bin/.Projects/THESIS/completed/usama-phd/uppsala/code/step10_learned.py", line 188, in run
+    map_rmse_d_subset=float(np.sqrt((map_err[:, 0] ** 2).mean())),
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed

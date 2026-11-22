@@ -1,0 +1,6 @@
+part mat, N=10, chi2_2 quantiles: 95% 5.99, 99% 9.21
+LOS  P_FA=1%: threshold 3.80 [0.00, 3.97] (6 H0 trials, median T 0.00); P_D 2m:0.67[0.21,0.94] 4m:1.00[0.44,1.00] 8m:1.00[0.44,1.00] (3 trials each)
+LOS  P_FA=5%: threshold 3.12 [0.00, 3.97] (6 H0 trials, median T 0.00); P_D 2m:0.67[0.21,0.94] 4m:1.00[0.44,1.00] 8m:1.00[0.44,1.00] (3 trials each)
+NLOS P_FA=1%: threshold 9.36 [0.84, 9.62] (6 H0 trials, median T 0.72); P_D 2m:0.67[0.21,0.94] 4m:1.00[0.44,1.00] 8m:1.00[0.44,1.00] (3 trials each)
+NLOS P_FA=5%: threshold 8.33 [0.79, 9.62] (6 H0 trials, median T 0.72); P_D 2m:0.67[0.21,0.94] 4m:1.00[0.44,1.00] 8m:1.00[0.44,1.00] (3 trials each)
+total 491s

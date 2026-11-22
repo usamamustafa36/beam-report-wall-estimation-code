@@ -1,0 +1,7 @@
+split LOS: median sqrt CRB d 2.05 m [1.47, 2.89]  singular 0/300
+split NLOS: median sqrt CRB d 2.99 m [2.08, 4.45]  singular 0/300
+amp   LOS: median sqrt CRB d 2.57 m [1.85, 3.73]  singular 0/300
+amp   NLOS: median sqrt CRB d 2.99 m [2.08, 4.45]  singular 0/300
+scale LOS: median sqrt CRB d 1.86 m [1.47, 2.50]  singular 0/300
+scale NLOS: median sqrt CRB d 2.99 m [2.08, 4.45]  singular 0/300
+crb wall 510s

@@ -1,0 +1,9 @@
+LOS  sigma_e=0.25 dB          : d RMSE 3.66 m [3.06, 4.30] / bound 1.44 [1.33, 1.57]; phi RMSE 1.07 / 0.44 deg; |d err| > 3 sqrt(CRB) in 24%  [120 fits, 0 failed, 30 sets]
+LOS  sigma_e=1.00 dB          : d RMSE 2.75 m [2.24, 3.25] / bound 1.97 [1.78, 2.18]; phi RMSE 0.87 / 0.62 deg; |d err| > 3 sqrt(CRB) in 9%  [120 fits, 0 failed, 30 sets]
+LOS  sigma_e=1.00 dB quantised: d RMSE 2.48 m [2.12, 2.85] / bound 2.05 [1.86, 2.27]; phi RMSE 0.73 / 0.64 deg; |d err| > 3 sqrt(CRB) in 3%  [120 fits, 0 failed, 30 sets]
+LOS  sigma_e=4.00 dB          : d RMSE 4.77 m [3.94, 5.44] / bound 4.74 [4.01, 5.55]; phi RMSE 1.46 / 1.51 deg; |d err| > 3 sqrt(CRB) in 4%  [120 fits, 0 failed, 30 sets]
+NLOS sigma_e=0.25 dB          : d RMSE 4.10 m [3.30, 4.86] / bound 3.01 [2.79, 3.21]; phi RMSE 0.50 / 0.37 deg; |d err| > 3 sqrt(CRB) in 3%  [120 fits, 0 failed, 30 sets]
+NLOS sigma_e=1.00 dB          : d RMSE 5.71 m [3.87, 7.71] / bound 3.46 [3.16, 3.75]; phi RMSE 0.65 / 0.43 deg; |d err| > 3 sqrt(CRB) in 5%  [120 fits, 0 failed, 30 sets]
+NLOS sigma_e=1.00 dB quantised: d RMSE 5.97 m [4.10, 8.11] / bound 3.60 [3.30, 3.90]; phi RMSE 0.69 / 0.45 deg; |d err| > 3 sqrt(CRB) in 6%  [120 fits, 0 failed, 30 sets]
+NLOS sigma_e=4.00 dB          : d RMSE 7.73 m [6.30, 9.18] / bound 5.69 [5.14, 6.27]; phi RMSE 0.95 / 0.71 deg; |d err| > 3 sqrt(CRB) in 5%  [120 fits, 0 failed, 30 sets]
+total 8545s

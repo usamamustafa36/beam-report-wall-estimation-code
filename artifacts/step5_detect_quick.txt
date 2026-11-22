@@ -1,0 +1,4 @@
+chi2_2 99% = 9.21
+LOS  N=10: threshold   3.32 (median T|H0 0.35); P_D 2m:0.00 | full-Sionna no-change: P_FA 0.83 (median T 10.4)
+NLOS N=10: threshold   4.16 (median T|H0 2.04); P_D 2m:0.75 | full-Sionna no-change: P_FA 1.00 (median T 173.2)
+total 67s

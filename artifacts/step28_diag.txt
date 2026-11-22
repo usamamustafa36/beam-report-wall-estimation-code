@@ -1,0 +1,10 @@
+Cost at the true wall versus cost at the multi-start wall. Same profile as the grid: two material starts, LBFGS, eval cap 800. A positive fit_minus_truth means the true wall is cheaper, so the search missed it.
+N=10 LOS n=120 truth_cheaper=5 fit_cheaper=71 tie=44 median_gap=-0.80 distant=1 distant_truth_cheaper=0 distant_fit_cheaper=1 bcrb_ok=120
+N=10 NLOS n=120 truth_cheaper=10 fit_cheaper=63 tie=47 median_gap=-0.52 distant=2 distant_truth_cheaper=1 distant_fit_cheaper=1 bcrb_ok=120
+N=50 LOS n=48 truth_cheaper=11 fit_cheaper=30 tie=7 median_gap=-0.80 distant=0 distant_truth_cheaper=0 distant_fit_cheaper=0 bcrb_ok=48
+N=50 NLOS n=48 truth_cheaper=33 fit_cheaper=7 tie=8 median_gap=2.86 distant=18 distant_truth_cheaper=18 distant_fit_cheaper=0 bcrb_ok=48
+N=100 LOS n=48 truth_cheaper=25 fit_cheaper=16 tie=7 median_gap=0.66 distant=4 distant_truth_cheaper=2 distant_fit_cheaper=1 bcrb_ok=48
+N=100 NLOS n=48 truth_cheaper=35 fit_cheaper=3 tie=10 median_gap=5.78 distant=24 distant_truth_cheaper=24 distant_fit_cheaper=0 bcrb_ok=48
+N=200 LOS n=48 truth_cheaper=24 fit_cheaper=22 tie=2 median_gap=0.53 distant=18 distant_truth_cheaper=10 distant_fit_cheaper=8 bcrb_ok=48
+N=200 NLOS n=48 truth_cheaper=44 fit_cheaper=2 tie=2 median_gap=10.82 distant=25 distant_truth_cheaper=25 distant_fit_cheaper=0 bcrb_ok=48
+diag seconds 2658

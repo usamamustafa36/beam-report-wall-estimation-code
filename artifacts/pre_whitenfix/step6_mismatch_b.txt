@@ -1,0 +1,13 @@
+full   LOS  N=10: pseudo-true bias |d| median 0.093 m (90% 0.310), |phi| median 0.037 deg; robust sqrt CRB d 1.75 m
+full   LOS  N=20: pseudo-true bias |d| median 0.111 m (90% 0.241), |phi| median 0.025 deg; robust sqrt CRB d 1.18 m
+full   NLOS N=10: pseudo-true bias |d| median 0.001 m (90% 0.619), |phi| median 0.009 deg; robust sqrt CRB d 3.02 m
+full   NLOS N=20: pseudo-true bias |d| median 0.152 m (90% 0.244), |phi| median 0.017 deg; robust sqrt CRB d 1.98 m
+full1b LOS  N=10: pseudo-true bias |d| median 2.210 m (90% 5.099), |phi| median 0.792 deg; robust sqrt CRB d 1.75 m
+full1b LOS  N=20: pseudo-true bias |d| median 1.551 m (90% 4.313), |phi| median 0.480 deg; robust sqrt CRB d 1.18 m
+full1b NLOS N=10: pseudo-true bias |d| median 6.531 m (90% 14.943), |phi| median 0.902 deg; robust sqrt CRB d 3.02 m
+full1b NLOS N=20: pseudo-true bias |d| median 2.977 m (90% 8.195), |phi| median 0.370 deg; robust sqrt CRB d 1.98 m
+model  LOS  N=10: pseudo-true bias |d| median 0.102 m (90% 0.399), |phi| median 0.034 deg; robust sqrt CRB d 1.75 m
+model  LOS  N=20: pseudo-true bias |d| median 0.075 m (90% 0.273), |phi| median 0.024 deg; robust sqrt CRB d 1.18 m
+model  NLOS N=10: pseudo-true bias |d| median 0.154 m (90% 0.413), |phi| median 0.021 deg; robust sqrt CRB d 3.02 m
+model  NLOS N=20: pseudo-true bias |d| median 0.109 m (90% 0.183), |phi| median 0.014 deg; robust sqrt CRB d 1.98 m
+total 48s

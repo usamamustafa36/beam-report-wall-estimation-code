@@ -1,0 +1,9 @@
+two-path wideband GLRT, B=20 MHz, N=10, direct path on for LOS only, H0=200, H1=60, 760 trials, 31901s
+LOS: threshold 10.09 (99th of 200 no-change; median T 1.63)
+  2 m: 20/60 = 0.333  [0.217, 0.450]
+  3 m: 40/60 = 0.667  [0.550, 0.783]
+  4 m: 54/60 = 0.900  [0.817, 0.967]
+NLOS: threshold 8.80 (99th of 200 no-change; median T 1.31)
+  2 m: 35/60 = 0.583  [0.467, 0.717]
+  3 m: 55/60 = 0.917  [0.850, 0.983]
+  4 m: 60/60 = 1.000  [1.000, 1.000]

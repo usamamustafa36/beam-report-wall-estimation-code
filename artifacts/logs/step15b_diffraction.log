@@ -1,0 +1,19 @@
+batch 0:12 / 215  16s
+batch 12:24 / 215  17s
+batch 24:36 / 215  18s
+batch 36:48 / 215  19s
+batch 48:60 / 215  21s
+batch 60:72 / 215  22s
+batch 72:84 / 215  24s
+batch 84:96 / 215  25s
+batch 96:108 / 215  25s
+batch 108:120 / 215  26s
+batch 120:132 / 215  27s
+batch 132:144 / 215  29s
+batch 144:156 / 215  30s
+batch 156:168 / 215  31s
+batch 168:180 / 215  32s
+batch 180:192 / 215  33s
+batch 192:204 / 215  34s
+batch 204:215 / 215  41s
+wrote /home/ubuntu/bin/.Projects/THESIS/completed/usama-phd/uppsala/code/artifacts/step15b_diffraction_raw.npz  diffracted 215/215  specular-avoid 0  41s

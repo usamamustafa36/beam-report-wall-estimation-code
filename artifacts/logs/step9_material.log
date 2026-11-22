@@ -1,0 +1,17 @@
+ 28 GHz LOS  N= 2: accuracy 0.67 | concr 0.60 brick 0.45 plast 0.75 wood 0.85 glass 0.35 marbl 0.70 metal 1.00
+ 28 GHz LOS  N= 5: accuracy 0.79 | concr 0.70 brick 0.70 plast 0.95 wood 0.80 glass 0.55 marbl 0.85 metal 1.00
+ 28 GHz LOS  N=10: accuracy 0.86 | concr 0.65 brick 0.85 plast 1.00 wood 1.00 glass 0.70 marbl 0.80 metal 1.00
+ 28 GHz LOS  N=20: accuracy 0.96 | concr 0.90 brick 1.00 plast 1.00 wood 1.00 glass 0.85 marbl 1.00 metal 1.00
+ 28 GHz NLOS N= 2: accuracy 0.59 | concr 0.40 brick 0.50 plast 0.80 wood 0.85 glass 0.10 marbl 0.50 metal 0.95
+ 28 GHz NLOS N= 5: accuracy 0.82 | concr 0.80 brick 0.50 plast 0.95 wood 1.00 glass 0.65 marbl 0.85 metal 1.00
+ 28 GHz NLOS N=10: accuracy 0.86 | concr 0.85 brick 0.55 plast 1.00 wood 1.00 glass 0.75 marbl 0.85 metal 1.00
+ 28 GHz NLOS N=20: accuracy 0.94 | concr 0.95 brick 0.85 plast 1.00 wood 1.00 glass 0.80 marbl 0.95 metal 1.00
+3.5 GHz LOS  N= 2: accuracy 0.51 | concr 0.55 brick 0.35 plast 0.45 wood 0.45 glass 0.25 marbl 0.60 metal 0.95
+3.5 GHz LOS  N= 5: accuracy 0.71 | concr 0.25 brick 0.65 plast 0.90 wood 0.85 glass 0.80 marbl 0.55 metal 1.00
+3.5 GHz LOS  N=10: accuracy 0.86 | concr 0.80 brick 0.70 plast 1.00 wood 0.95 glass 0.75 marbl 0.80 metal 1.00
+3.5 GHz LOS  N=20: accuracy 0.88 | concr 0.85 brick 0.80 plast 1.00 wood 1.00 glass 0.70 marbl 0.80 metal 1.00
+3.5 GHz NLOS N= 2: accuracy 0.51 | concr 0.10 brick 0.35 plast 0.75 wood 0.70 glass 0.40 marbl 0.40 metal 0.85
+3.5 GHz NLOS N= 5: accuracy 0.72 | concr 0.60 brick 0.65 plast 0.90 wood 0.95 glass 0.55 marbl 0.40 metal 1.00
+3.5 GHz NLOS N=10: accuracy 0.78 | concr 0.80 brick 0.50 plast 0.85 wood 1.00 glass 0.65 marbl 0.65 metal 1.00
+3.5 GHz NLOS N=20: accuracy 0.84 | concr 0.75 brick 0.75 plast 1.00 wood 1.00 glass 0.70 marbl 0.70 metal 1.00
+total 3316s

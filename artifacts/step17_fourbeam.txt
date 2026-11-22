@@ -1,0 +1,4 @@
+four-beam MAP, sigma_e=1.0 dB, Sheppard variances, 50 sets x 20 draws, N=10
+LOS: d RMSE 4.25 m [3.92, 4.57] / sqrt(mean CRB) 7.93; median per-set bound 5.30; |d err| > 3 sqrt(CRB) in 0%  [1000 fits, 0 failed, 50 sets]
+NLOS: d RMSE 4.81 m [3.91, 5.90] / sqrt(mean CRB) 3.47; median per-set bound 3.18; |d err| > 3 sqrt(CRB) in 2%  [1000 fits, 0 failed, 50 sets]
+total 5251s

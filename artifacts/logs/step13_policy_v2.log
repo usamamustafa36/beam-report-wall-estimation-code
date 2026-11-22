@@ -1,0 +1,33 @@
+LOS glrt: tau (P_FA 1%) = 122.89
+  Delta 0.0 m: d RMSE radio 1.69 | always fuse 0.47 | test then fuse 0.51 m | map rejected in 1%  (300 trials)
+  Delta 1.0 m: d RMSE radio 1.61 | always fuse 0.99 | test then fuse 1.01 m | map rejected in 3%  (150 trials)
+  Delta 2.0 m: d RMSE radio 1.86 | always fuse 1.96 | test then fuse 1.99 m | map rejected in 2%  (150 trials)
+  Delta 3.0 m: d RMSE radio 2.11 | always fuse 2.78 | test then fuse 2.76 m | map rejected in 3%  (150 trials)
+  Delta 4.0 m: d RMSE radio 2.39 | always fuse 3.66 | test then fuse 3.59 m | map rejected in 11%  (150 trials)
+  Delta 6.0 m: d RMSE radio 3.36 | always fuse 5.48 | test then fuse 5.14 m | map rejected in 19%  (150 trials)
+  Delta 8.0 m: d RMSE radio 3.82 | always fuse 7.30 | test then fuse 6.34 m | map rejected in 36%  (150 trials)
+LOS mahal: tau (P_FA 1%) = 9.62
+  Delta 0.0 m: d RMSE radio 1.69 | always fuse 0.47 | test then fuse 1.01 m | map rejected in 1%  (300 trials)
+  Delta 1.0 m: d RMSE radio 1.61 | always fuse 0.99 | test then fuse 1.00 m | map rejected in 1%  (150 trials)
+  Delta 2.0 m: d RMSE radio 1.86 | always fuse 1.96 | test then fuse 2.02 m | map rejected in 4%  (150 trials)
+  Delta 3.0 m: d RMSE radio 2.11 | always fuse 2.78 | test then fuse 2.75 m | map rejected in 15%  (150 trials)
+  Delta 4.0 m: d RMSE radio 2.39 | always fuse 3.66 | test then fuse 3.23 m | map rejected in 36%  (150 trials)
+  Delta 6.0 m: d RMSE radio 3.36 | always fuse 5.48 | test then fuse 4.12 m | map rejected in 59%  (150 trials)
+  Delta 8.0 m: d RMSE radio 3.82 | always fuse 7.30 | test then fuse 4.45 m | map rejected in 78%  (150 trials)
+NLOS glrt: tau (P_FA 1%) = 601.03
+  Delta 0.0 m: d RMSE radio 6.23 | always fuse 0.70 | test then fuse 0.72 m | map rejected in 1%  (300 trials)
+  Delta 1.0 m: d RMSE radio 5.74 | always fuse 1.01 | test then fuse 1.04 m | map rejected in 1%  (150 trials)
+  Delta 2.0 m: d RMSE radio 5.29 | always fuse 1.79 | test then fuse 1.79 m | map rejected in 0%  (150 trials)
+  Delta 3.0 m: d RMSE radio 6.68 | always fuse 2.66 | test then fuse 3.16 m | map rejected in 3%  (150 trials)
+  Delta 4.0 m: d RMSE radio 6.80 | always fuse 3.52 | test then fuse 5.15 m | map rejected in 3%  (150 trials)
+  Delta 6.0 m: d RMSE radio 5.83 | always fuse 5.37 | test then fuse 6.28 m | map rejected in 8%  (150 trials)
+  Delta 8.0 m: d RMSE radio 5.93 | always fuse 7.17 | test then fuse 8.03 m | map rejected in 7%  (150 trials)
+NLOS mahal: tau (P_FA 1%) = 253.78
+  Delta 0.0 m: d RMSE radio 6.23 | always fuse 0.70 | test then fuse 3.42 m | map rejected in 1%  (300 trials)
+  Delta 1.0 m: d RMSE radio 5.74 | always fuse 1.01 | test then fuse 1.01 m | map rejected in 0%  (150 trials)
+  Delta 2.0 m: d RMSE radio 5.29 | always fuse 1.79 | test then fuse 1.79 m | map rejected in 0%  (150 trials)
+  Delta 3.0 m: d RMSE radio 6.68 | always fuse 2.66 | test then fuse 4.36 m | map rejected in 2%  (150 trials)
+  Delta 4.0 m: d RMSE radio 6.80 | always fuse 3.52 | test then fuse 6.13 m | map rejected in 4%  (150 trials)
+  Delta 6.0 m: d RMSE radio 5.83 | always fuse 5.37 | test then fuse 7.00 m | map rejected in 5%  (150 trials)
+  Delta 8.0 m: d RMSE radio 5.93 | always fuse 7.17 | test then fuse 8.90 m | map rejected in 5%  (150 trials)
+total 9148s

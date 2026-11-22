@@ -1,0 +1,6 @@
+thresholds P_FA=1% from step5b (2000 trials): LOS 7.31, NLOS 9.46
+Delta 2 m LOS : P_D 0.53 with a complete twin frozen at the map (median T 8.5), 0.59 with a single-bounce twin (median T 10.0)  [300 sets from 256 users]
+Delta 2 m NLOS: P_D 0.63 with a complete twin frozen at the map (median T 15.5), 0.99 with a single-bounce twin (median T 312.8)  [300 sets from 80 users]
+Delta 4 m LOS : P_D 0.76 with a complete twin frozen at the map (median T 24.3), 0.78 with a single-bounce twin (median T 21.7)  [300 sets from 247 users]
+Delta 4 m NLOS: P_D 0.86 with a complete twin frozen at the map (median T 31.4), 0.99 with a single-bounce twin (median T 297.5)  [300 sets from 80 users]
+total 21772s

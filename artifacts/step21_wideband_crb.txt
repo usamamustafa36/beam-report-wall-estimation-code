@@ -1,0 +1,17 @@
+LOS Fisher check max |J-J_step12| = 9.677e-09 on 16 users at 20 MHz
+B=  0.0 MHz (  1 tones) NLOS  (0s)
+  N= 5: sqrt CRB d median 4.96 m [3.00, 8.73]; eps_r 5.15%  singular 0/300
+  N=10: sqrt CRB d median 3.09 m [2.20, 4.37]; eps_r 3.47%  singular 0/300
+  N=20: sqrt CRB d median 1.97 m [1.55, 2.51]; eps_r 2.25%  singular 0/300
+B=  7.2 MHz ( 31 tones) NLOS  (0s)
+  N= 5: sqrt CRB d median 4.96 m [3.00, 8.73]; eps_r 5.15%  singular 0/300
+  N=10: sqrt CRB d median 3.09 m [2.20, 4.37]; eps_r 3.47%  singular 0/300
+  N=20: sqrt CRB d median 1.97 m [1.55, 2.51]; eps_r 2.25%  singular 0/300
+B= 20.0 MHz ( 84 tones) NLOS  (0s)
+  N= 5: sqrt CRB d median 4.96 m [3.00, 8.73]; eps_r 5.16%  singular 0/300
+  N=10: sqrt CRB d median 3.09 m [2.20, 4.37]; eps_r 3.47%  singular 0/300
+  N=20: sqrt CRB d median 1.97 m [1.55, 2.51]; eps_r 2.25%  singular 0/300
+B=100.0 MHz (418 tones) NLOS  (1s)
+  N= 5: sqrt CRB d median 4.96 m [3.00, 8.73]; eps_r 5.55%  singular 0/300
+  N=10: sqrt CRB d median 3.09 m [2.19, 4.37]; eps_r 3.74%  singular 0/300
+  N=20: sqrt CRB d median 1.97 m [1.55, 2.51]; eps_r 2.42%  singular 0/300

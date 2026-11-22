@@ -1,0 +1,3 @@
+Delta 3 m, N=10, 200 trials, wall 2862s
+LOS: threshold 9.61 (step5b, 2000 H0), P_D 0.850 [0.794, 0.893]  (170/200), median T 19.01
+NLOS: threshold 9.61 (step5b, 2000 H0), P_D 0.945 [0.904, 0.969]  (189/200), median T 20.77

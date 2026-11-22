@@ -1,0 +1,5 @@
+draws 2, sets 30, wall 731s
+LOS 0.25 dB: n 60 distant 0.30  of distant, C(hat)<C(true) 0.17, C(hat)>C(true) 0.83, median gap 19.26  of all fits, C(hat)<C(true) 0.23
+LOS 1.00 dB: n 60 distant 0.05  of distant, C(hat)<C(true) 0.67, C(hat)>C(true) 0.33, median gap -1.31  of all fits, C(hat)<C(true) 0.70
+NLOS 0.25 dB: n 60 distant 0.03  of distant, C(hat)<C(true) 0.00, C(hat)>C(true) 1.00, median gap 26.69  of all fits, C(hat)<C(true) 0.75
+NLOS 1.00 dB: n 60 distant 0.02  of distant, C(hat)<C(true) 1.00, C(hat)>C(true) 0.00, median gap -2.19  of all fits, C(hat)<C(true) 0.92

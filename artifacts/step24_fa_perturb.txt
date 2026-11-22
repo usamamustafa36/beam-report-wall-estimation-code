@@ -1,0 +1,3 @@
+GLRT with perturbed non-wall channel, wall unmoved, threshold 9.61 (correct-twin calibration), N=10, 200 trials/class, 400 done, 4228s
+LOS: P_FA 0.740 (148/200) at 9.61; median T 27.60; 99th 200.43; median |offset error| 3.59 m (10th--90th 0.43--9.02)
+NLOS: P_FA 0.015 (3/200) at 9.61; median T 1.45; 99th 10.10; median |offset error| 1.37 m (10th--90th 0.18--3.69)

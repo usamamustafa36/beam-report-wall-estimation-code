@@ -1,0 +1,6 @@
+users 215 served NLOS with |h0|~0, samples 500000, trace 41s
+gap = 10 log10(closed-form isotropic specular wall power / summed diffracted power that avoids the facade)
+The same definition on the original 8 users gives median 14.93 dB and range 4.31 to 29.17 dB.
+diffracted path present 215/215; specular path that avoids the facade 0/215
+valid specular wall 215/215
+gap dB on 215 users: median 14.50, 10th 3.88, 90th 29.50, min -7.19, max 41.82

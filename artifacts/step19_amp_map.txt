@@ -1,0 +1,3 @@
+scale-amplitude MAP, sigma_e=1 dB, 30 sets x 4 draws, |log10 amp| < 2, wall 2701s
+LOS: d RMSE 2.55 m / sqrt(mean scale-CRB) 2.13; singular bounds 0; |d err| > 3 sqrt(CRB) in 2%  [120 fits]
+NLOS: d RMSE 3.79 m / sqrt(mean scale-CRB) 3.25; singular bounds 0; |d err| > 3 sqrt(CRB) in 6%  [120 fits]

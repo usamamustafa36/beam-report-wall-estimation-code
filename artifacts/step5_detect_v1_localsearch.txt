@@ -1,0 +1,8 @@
+chi2_2 99% = 9.21
+LOS  N= 5: threshold  37.71 (median T|H0 0.79); P_D 0.5m:0.02 1m:0.00 2m:0.00 4m:0.02 8m:0.53 | full Sionna, no change: P_FA 0.01 with a complete twin (median T 0.5), 0.07 with a single-bounce twin (median T 6.7)
+LOS  N=10: threshold  21.98 (median T|H0 0.58); P_D 0.5m:0.01 1m:0.02 2m:0.08 4m:0.48 8m:0.88 | full Sionna, no change: P_FA 0.01 with a complete twin (median T 0.3), 0.14 with a single-bounce twin (median T 5.9)
+LOS  N=20: threshold  44.16 (median T|H0 0.01); P_D 0.5m:0.00 1m:0.01 2m:0.04 4m:0.26 8m:0.42 | full Sionna, no change: P_FA 0.02 with a complete twin (median T 0.0), 0.03 with a single-bounce twin (median T 0.1)
+NLOS N= 5: threshold   7.78 (median T|H0 1.33); P_D 0.5m:0.03 1m:0.11 2m:0.38 4m:0.95 8m:1.00 | full Sionna, no change: P_FA 0.04 with a complete twin (median T 0.7), 0.91 with a single-bounce twin (median T 105.7)
+NLOS N=10: threshold  10.12 (median T|H0 1.26); P_D 0.5m:0.01 1m:0.11 2m:0.55 4m:1.00 8m:1.00 | full Sionna, no change: P_FA 0.08 with a complete twin (median T 0.4), 0.95 with a single-bounce twin (median T 209.6)
+NLOS N=20: threshold  12.04 (median T|H0 0.58); P_D 0.5m:0.03 1m:0.15 2m:0.76 4m:0.99 8m:1.00 | full Sionna, no change: P_FA 0.04 with a complete twin (median T 0.0), 0.69 with a single-bounce twin (median T 28.9)
+total 3462s

@@ -1,0 +1,2 @@
+LOS: median |bias| 0.40 m, gap at truth 4.05 dB, gap after best offset 3.88 dB, 10th-90th residual [3.04, 5.11], grid edge 0.01, median |rest| 2.138e-05
+NLOS: median |bias| 0.20 m, gap at truth 0.60 dB, gap after best offset 0.30 dB, 10th-90th residual [0.00, 1.07], grid edge 0.00, median |rest| 1.049e-07
